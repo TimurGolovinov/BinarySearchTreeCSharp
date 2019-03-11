@@ -1,0 +1,6 @@
+D:\Programming\TUESDAY\ProgrammingIII\Sessions\S2\AT1.2\AT1.2\bin\Debug\AT1.2.dll
+D:\Programming\TUESDAY\ProgrammingIII\Sessions\S2\AT1.2\AT1.2\bin\Debug\AT1.2.pdb
+D:\Programming\TUESDAY\ProgrammingIII\Sessions\S2\AT1.2\AT1.2\obj\Debug\AT1.2.csprojAssemblyReference.cache
+D:\Programming\TUESDAY\ProgrammingIII\Sessions\S2\AT1.2\AT1.2\obj\Debug\AT1.2.csproj.CoreCompileInputs.cache
+D:\Programming\TUESDAY\ProgrammingIII\Sessions\S2\AT1.2\AT1.2\obj\Debug\AT1.2.dll
+D:\Programming\TUESDAY\ProgrammingIII\Sessions\S2\AT1.2\AT1.2\obj\Debug\AT1.2.pdb
